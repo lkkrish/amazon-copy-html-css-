@@ -176,8 +176,6 @@
     
 }
 
-
-/*fiffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff*/
 #nd{
     display: flex;
     background-color: 222f3d;
@@ -212,8 +210,7 @@
 
 
 
-/*ggggggggggggggggggggggggggggggggggggggggggggggffggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-*/
+
 
 #middle-section{
 
